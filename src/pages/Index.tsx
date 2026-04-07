@@ -27,7 +27,7 @@ const Index = () => {
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8">
           <div>
-            <h1 className="text-2xl font-bold text-foreground">Restaurant Analytics</h1>
+            <h1 className="text-2xl font-bold text-foreground"><h1 className="text-2xl font-bold text-foreground">Daily Analytics</h1></h1>
             <p className="text-sm text-muted-foreground mt-1">Reservation insights & performance metrics</p>
           </div>
           <div className="flex items-center gap-2 flex-wrap">
